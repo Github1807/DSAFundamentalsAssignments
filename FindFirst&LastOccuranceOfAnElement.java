@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class FindFirst&LastOccuranceOfAnElement {
     public static void main(String[] args) {
-        int num[]={1,2,8,4,8,5,6,8,9};
-        int n=8;
+        int num[]={1,2,7,4,7,5,6,7,9};
+        int n=7;
 
         int pos1=-1;
         boolean ispresent=false;
