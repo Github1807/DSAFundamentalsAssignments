@@ -24,5 +24,5 @@ public class BinarySearchForAlphabet {
         char target = 'z';
         System.out.println(bs(arr, target));
     }
-
 }
+
