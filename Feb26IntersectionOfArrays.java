@@ -31,5 +31,6 @@ public class Feb26IntersectionOfArrays {
         int arr2[] = new int[] {2, 2};
         printIntersection(arr1, arr2);
       
-    }
+    
+}
 }
