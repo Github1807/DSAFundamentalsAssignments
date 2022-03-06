@@ -40,4 +40,4 @@ public class Frequency{
 	        
 	        System.out.println(uppper_idx - lower_idx + 1);
 	    }
-	}
+}
