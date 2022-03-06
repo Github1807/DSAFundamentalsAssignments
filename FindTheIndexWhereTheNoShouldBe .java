@@ -28,4 +28,5 @@ public class FindTheIndexWhereTheNoShouldBe
     int target=2;
     System.out.println(find_index(arr,target));
    }
+
 }
