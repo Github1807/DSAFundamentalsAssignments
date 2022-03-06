@@ -18,6 +18,6 @@ public class SmallestMissingElement {
         System.out.println("the smallest missing number of array 1  "+missing_element(check1));
         System.out.println("the smallest missing number of array 2  "+missing_element(check2));
         System.out.println("the smallest missing number of array 3  "+missing_element(check3));
-
     }
+    
 }
